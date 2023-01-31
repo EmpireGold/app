@@ -1,4 +1,4 @@
-<feed>Hello, this is the RSS feed</feed>
+<feed>Edit this now</feed>
 <pin>1234</pin>
 <app_description_1>App Description</app_description_1>
 <app_description_2>App Description</app_description_2>
