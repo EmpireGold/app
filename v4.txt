@@ -6,67 +6,67 @@
       "name": "App 1",
       "description": "App description",
       "url": "https://www.dropbox.com/s/i75ifz14czyq8gu/TiviMate-v4.4.0.apk?raw=1",
-      "package": "ar.tvplayer.tv"
+      "packageName": "ar.tvplayer.tv"
     },
     {
       "name": "App 2",
       "description": "App description",
       "url": "https://www.dropbox.com/s/5ji03i6z3yxc0i3/MXPLayer%20v1.28.6%2032%20bit%20mod%20Firestick.apk?raw=1",
-      "package": "com.mxtech.videoplayer.ad"
+      "packageName": "com.mxtech.videoplayer.ad"
     },
     {
       "name": "App 3",
       "description": "App description",
       "url": "https://www.dropbox.com/s/v2qzl5o0d6m6os8/VL-v3.5.0%5BPrem-Beta-Arm7-32Bit%5D%20%281%29.apk?raw=1",
-      "package": "org.videolan.vlc"
+      "packageName": "org.videolan.vlc"
     },
     {
       "name": "App 4",
       "description": "App description",
       "url": "https://www.dropbox.com/s/1uvpvh2wta6zu4z/Plex.apk?raw=1",
-      "package": "com.plexapp.android"
+      "packageName": "com.plexapp.android"
     },
     {
       "name": "App 5",
       "description": "App description",
       "url": "https://www.dropbox.com/s/v68diz7hodqy745/Plexamp.apk?raw=1",
-      "package": "tv.plex.labs.plexamp"
+      "packageName": "tv.plex.labs.plexamp"
     },
     {
       "name": "App 6",
       "description": "App description",
       "url": "https://www.dropbox.com/s/wk0tr7y2tvubcpw/nova%20video.apk?raw=1",
-      "package": "org.courville.nova"
+      "packageName": "org.courville.nova"
     },
     {
       "name": "App 7",
       "description": "App description",
       "url": "https://www.dropbox.com/s/00fy4x0lhg45mrt/TDUK-fs_Speed01.apk?raw=1",
-      "package": "com.wolf.anmscl"
+      "packageName": "com.wolf.anmscl"
     },
     {
       "name": "App 8",
       "description": "App description",
       "url": "https://www.dropbox.com/s/d2l1v1em3gj999k/EmpireMaxFlavor_v1_release_31_12_21.apk?raw=1",
-      "package": "com.neutro.player.rebrands"
+      "packageName": "com.neutro.player.rebrands"
     },
     {
       "name": "App 9",
       "description": "App description",
       "url": "https://www.dropbox.com/s/cbe4ztzopm9jqkv/ji31hx%20%281%29.apk?raw=1",
-      "package": "com.tubitv"
+      "packageName": "com.tubitv"
     },
     {
       "name": "App 10",
       "description": "App description",
       "url": "https://www.dropbox.com/s/d6vo93l8u9tw8za/FiP-v1.4.3%5BAd-Free-Lite%5D%20%281%29.apk?raw=1",
-      "package": "com.guideplus.co"
+      "packageName": "com.guideplus.co"
     },
     {
       "name": "App 11",
       "description": "App description",
       "url": "https://www.dropbox.com/s/al56ozbrurr8ivs/Jizztagram.ver.1.0.7.build.107%20mod.apk?raw=1",
-      "package": "com.jizzta.gram"
+      "packageName": "com.jizzta.gram"
     }
   ]
 }
