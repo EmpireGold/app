@@ -3,61 +3,61 @@
   "pin": 1234,
   "apps": [
     {
-      "name": "Tivimate",
+      "name": "App 1",
       "description": "App description",
       "url": "https://www.dropbox.com/s/i75ifz14czyq8gu/TiviMate-v4.4.0.apk?raw=1",
       "packageName": "ar.tvplayer.tv"
     },
     {
-      "name": "MX Player",
+      "name": "App 2",
       "description": "MX Player",
       "url": "https://www.dropbox.com/s/5ji03i6z3yxc0i3/MXPLayer%20v1.28.6%2032%20bit%20mod%20Firestick.apk?raw=1",
       "packageName": "com.mxtech.videoplayer.ad"
     },
     {
-      "name": "VLC Player",
+      "name": "App 3",
       "description": "App description",
       "url": "https://www.dropbox.com/s/v2qzl5o0d6m6os8/VL-v3.5.0%5BPrem-Beta-Arm7-32Bit%5D%20%281%29.apk?raw=1",
       "packageName": "org.videolan.vlc"
     },
     {
-      "name": "Plex",
+      "name": "App 4",
       "description": "App description",
       "url": "https://www.dropbox.com/s/1uvpvh2wta6zu4z/Plex.apk?raw=1",
       "packageName": "com.plexapp.android"
     },
     {
-      "name": "Plex Amp",
+      "name": "App 5",
       "description": "App description",
       "url": "https://www.dropbox.com/s/v68diz7hodqy745/Plexamp.apk?raw=1",
       "packageName": "tv.plex.labs.plexamp"
     },
     {
-      "name": "Nova Video Player",
+      "name": "App 6",
       "description": "App description",
       "url": "https://www.dropbox.com/s/wk0tr7y2tvubcpw/nova%20video.apk?raw=1",
       "packageName": "org.courville.nova"
     },
     {
-      "name": "Speed Up",
+      "name": "App 7",
       "description": "App description",
       "url": "https://www.dropbox.com/s/00fy4x0lhg45mrt/TDUK-fs_Speed01.apk?raw=1",
       "packageName": "com.wolf.anmscl"
     },
     {
-      "name": "Empire Max",
+      "name": "App 8",
       "description": "App description",
       "url": "https://www.dropbox.com/s/d2l1v1em3gj999k/EmpireMaxFlavor_v1_release_31_12_21.apk?raw=1",
       "packageName": "com.neutro.player.rebrands"
     },
     {
-      "name": "Tubi",
+      "name": "App 9",
       "description": "App description",
       "url": "https://www.dropbox.com/s/cbe4ztzopm9jqkv/ji31hx%20%281%29.apk?raw=1",
       "packageName": "com.tubitv"
     },
     {
-      "name": "Film Plus",
+      "name": "App 10",
       "description": "App description",
       "url": "https://www.dropbox.com/s/d6vo93l8u9tw8za/FiP-v1.4.3%5BAd-Free-Lite%5D%20%281%29.apk?raw=1",
       "packageName": "com.guideplus.co"
