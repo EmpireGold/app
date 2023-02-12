@@ -10,7 +10,7 @@
     },
     {
       "name": "App 2",
-      "description": "App description",
+      "description": "MX Player",
       "url": "https://www.dropbox.com/s/5ji03i6z3yxc0i3/MXPLayer%20v1.28.6%2032%20bit%20mod%20Firestick.apk?raw=1",
       "packageName": "com.mxtech.videoplayer.ad"
     },
