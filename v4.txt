@@ -27,7 +27,7 @@
       "packageName": "com.plexapp.android"
     },
     {
-      "name": Plex Amp",
+      "name": "Plex Amp",
       "description": "App description",
       "url": "https://www.dropbox.com/s/v68diz7hodqy745/Plexamp.apk?raw=1",
       "packageName": "tv.plex.labs.plexamp"
