@@ -1,16 +1,5 @@
 {
-  "feed": "PPV02: UFC 284 Islam Makhachev vs. Alexander Volkanovski Early Prelims/Prelims @6/8PM
-PPV03: UFC 284 Islam Makhachev vs. Alexander Volkanovski Main Card @10PM
-USA PPV04: UFC 284 Islam Makhachev vs. Alexander Volkanovski Main Card @10PM
-USA PPV05: Boxing: Rey Vergas vs O’Shaquie Foster @9PM
-USA PPV06: Memphis Wrestling, Episode 103 @1PM
-USA PPV07: GCW Jersey J-Cup, Session 1 @2PM
-USA PPV08: Adam 'The Assassin' Azim vs Santos Reyes @3PM
-USA PPV09: Three Lions Promotions Arturs Gorlovs vs Ryan Rozicki @7PM
-USA PPV10: River City Fights 5 @7PM
-USA PPV11: AIW This Aggression Will Not Stand Man @7:30PM
-USA PPV12: GCW Jersey J-Cup, Session 2 @8PM
-USA PPV13: MCW Pro Wrestling Anniversary 2023 @9PM",
+  "feed": "",
   "pin": 1234,
   "apps": [
     {
