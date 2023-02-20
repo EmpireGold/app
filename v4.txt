@@ -1,5 +1,5 @@
 {
-  "feed": "",
+  "feed": "Newly Added Movies:  Ascension, Infinity Pool, Nate Bargatze Hello World, Love Evolving, Infiesto, Blood, Mission Majnu, Bezos, The Plot To Kill My Mother, Manifesto Of A Serial Killer",
   "pin": 1234,
   "apps": [
     {
@@ -16,31 +16,31 @@
     },
     {
       "name": "App 3",
-      "description": "App description",
+      "description": "VLC PLAYER",
       "url": "https://www.dropbox.com/s/v2qzl5o0d6m6os8/VL-v3.5.0%5BPrem-Beta-Arm7-32Bit%5D%20%281%29.apk?raw=1",
       "packageName": "org.videolan.vlc"
     },
     {
       "name": "App 4",
-      "description": "App description",
+      "description": "PLEX",
       "url": "https://www.dropbox.com/s/1uvpvh2wta6zu4z/Plex.apk?raw=1",
       "packageName": "com.plexapp.android"
     },
     {
       "name": "App 5",
-      "description": "App description",
+      "description": "PLEX AMP",
       "url": "https://www.dropbox.com/s/v68diz7hodqy745/Plexamp.apk?raw=1",
       "packageName": "tv.plex.labs.plexamp"
     },
     {
       "name": "App 6",
-      "description": "App description",
+      "description": "NOVA VIDEO PLAYER",
       "url": "https://www.dropbox.com/s/wk0tr7y2tvubcpw/nova%20video.apk?raw=1",
       "packageName": "org.courville.nova"
     },
     {
       "name": "App 7",
-      "description": "App description",
+      "description": "TDUK SPEED UP DEVICE",
       "url": "https://www.dropbox.com/s/00fy4x0lhg45mrt/TDUK-fs_Speed01.apk?raw=1",
       "packageName": "com.wolf.anmscl"
     },
@@ -52,7 +52,7 @@
     },
     {
       "name": "App 9",
-      "description": "App description",
+      "description": "TUBI",
       "url": "https://www.dropbox.com/s/cbe4ztzopm9jqkv/ji31hx%20%281%29.apk?raw=1",
       "packageName": "com.tubitv"
     },
