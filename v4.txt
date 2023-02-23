@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "App 1",
-      "description": "App description",
+      "description": "TIVIMATE",
       "url": "https://www.dropbox.com/s/i75ifz14czyq8gu/TiviMate-v4.4.0.apk?raw=1",
       "packageName": "ar.tvplayer.tv"
     },
@@ -46,7 +46,7 @@
     },
     {
       "name": "App 8",
-      "description": "App description",
+      "description": "EMPIRE GOLD UPDATE",
       "url": "https://www.dropbox.com/s/d2l1v1em3gj999k/EmpireMaxFlavor_v1_release_31_12_21.apk?raw=1",
       "packageName": "com.neutro.player.rebrands"
     },
