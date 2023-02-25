@@ -1,5 +1,10 @@
 {
-  "feed": "Newly Added Movies:  Ascension, Infinity Pool, Nate Bargatze Hello World, Love Evolving, Infiesto, Blood, Mission Majnu, Bezos, The Plot To Kill My Mother, Manifesto Of A Serial Killer",
+  "feed": "PPV01:UFC FIGHT NIGHT: Nikita Krylov vs. Ryan Spann Prelims/Main Card – 4:00 PM/7:00 PM
+PPV02:UFC FIGHT NIGHT: Nikita Krylov vs. Ryan Spann Prelims/Main Card – 4PM/7PM
+PPV03:Boxing: Wagner vs. Vrenozi: Fight Night @7PM
+PPV04:MWRS Lone Star KART Nationals 2/25/23 @8PM
+PPV05:Grappling MMA: Unrivaled 2 @8:30 PM
+PPV06:Boxing: Subriel Matias vs Jeremias Ponce @9PM",
   "pin": 1234,
   "apps": [
     {
