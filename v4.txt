@@ -1,5 +1,5 @@
 {
-  "feed": "PPV03: BOXING: JAKE PAUL VS TOMMY FURY @2PM",
+  "feed": "  PLEASE UPDATE CHANNELS  .......  BOXING: JAKE PAUL VS TOMMY FURY @2PM ON PPV03 ........  BASH AT THE FAKE BEACH @7PM ON PPV01..",
   "pin": 1234,
   "apps": [
     {
