@@ -48,7 +48,7 @@
       "name": "App 8",
       "description": "EMPIRE GOLD UPDATE",
       "url": "https://www.dropbox.com/s/dk9jnls4rerfodi/EmpireGold_VC%3D111.apk?raw=1",
-      "packageName": "org.avstream.empireent"
+      "packageName": "org.avstream.empireentz"
     },
     {
       "name": "App 9",
