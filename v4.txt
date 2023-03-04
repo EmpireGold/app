@@ -47,8 +47,8 @@
     {
       "name": "App 8",
       "description": "EMPIRE GOLD UPDATE",
-      "url": "https://www.dropbox.com/s/d2l1v1em3gj999k/EmpireMaxFlavor_v1_release_31_12_21.apk?raw=1",
-      "packageName": "com.neutro.player.rebrands"
+      "url": "https://www.dropbox.com/s/dk9jnls4rerfodi/EmpireGold_VC%3D111.apk?raw=1",
+      "packageName": "org.avstream.empireent"
     },
     {
       "name": "App 9",
