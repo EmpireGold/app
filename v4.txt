@@ -58,7 +58,7 @@
     },
     {
       "name": "App 10",
-      "description": "App description",
+      "description": "B PLAYER PRO",
       "url": "https://www.dropbox.com/s/d6vo93l8u9tw8za/FiP-v1.4.3%5BAd-Free-Lite%5D%20%281%29.apk?raw=1",
       "packageName": "com.guideplus.co"
     },
