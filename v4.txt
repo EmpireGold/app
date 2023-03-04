@@ -59,8 +59,8 @@
     {
       "name": "App 10",
       "description": "B PLAYER PRO",
-      "url": "https://www.dropbox.com/s/d6vo93l8u9tw8za/FiP-v1.4.3%5BAd-Free-Lite%5D%20%281%29.apk?raw=1",
-      "packageName": "com.guideplus.co"
+      "url": "https://www.dropbox.com/s/yfjchf027b8vty2/BPlayer_AF_1.2.3_MultiPatch_Arm7_Dlpure.com.apk?raw=1",
+      "packageName": "com.ae.video.bplayer"
     },
     {
       "name": "App 11",
