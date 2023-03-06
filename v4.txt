@@ -45,9 +45,9 @@
       "packageName": "com.wolf.anmscl"
     },
     {
-      "name": "App 8",
+      "name": "App 8",https://www.dropbox.com/s/2yrpvbz11xi4itf/EmpireGold_VC%3D111%20%281%29.apk?raw=1
       "description": "EMPIRE GOLD UPDATE",
-      "url": "https://www.dropbox.com/s/dk9jnls4rerfodi/EmpireGold_VC%3D111.apk?raw=1",
+      "url": "",
       "packageName": "org.avstream.empireent"
     },
     {
