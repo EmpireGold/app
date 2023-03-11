@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "App 1",
-      "description": "Tplayer",
+      "description": "TPLAYER -install-open-allow-close. Use this player for Empire Prime",
       "url": "https://www.dropbox.com/s/akrja4yk3uj1tdc/TPlayer_v6.5b_MOD_modded-1.com.apk?raw=1",
       "packageName": "teavideo.tvplayer.videoallformat"
     },
