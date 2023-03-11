@@ -4,9 +4,9 @@
   "apps": [
     {
       "name": "App 1",
-      "description": "TIVIMATE",
-      "url": "https://www.dropbox.com/s/i75ifz14czyq8gu/TiviMate-v4.4.0.apk?raw=1",
-      "packageName": "ar.tvplayer.tv"
+      "description": "Tplayer",
+      "url": "https://www.dropbox.com/s/akrja4yk3uj1tdc/TPlayer_v6.5b_MOD_modded-1.com.apk?raw=1",
+      "packageName": "teavideo.tvplayer.videoallformat"
     },
     {
       "name": "App 2",
