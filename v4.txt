@@ -1,10 +1,10 @@
 {
-  "feed": "INTRODUCING EMPIRE PRIME WITH FASTER LOADING SPEEDS... CLICK PLANET APPS--APPSTORE--BPLAYER (APP#10)--INSTALL--OPEN--ALLOW ACCESS--ALLOW---PRESS BACK BUTTON--CLICK EMPIRE PRIME--INSTALL--OPEN--ALLOW... WHEN YOU CLICK ON A LINK SELECT PLAY WITH EXTERNAL PLAYER AND SELECT BPLAYER",
+  "feed": "INTRODUCING EMPIRE PRIME FIX 3/11.....UNINSTALL EMPIRTE PRIME...CLICK PLANET APPS--APPSTORE--TPLAYER (APP#1)--INSTALL--OPEN--ALLOW ACCESS--ALLOW--CLOSE-PRESS BACK BUTTON--CLICK EMPIRE PRIME--INSTALL--OPEN--ALLOW..",
   "pin": 1234,
   "apps": [
     {
       "name": "App 1",
-      "description": "TPLAYER -install-open-allow-close. Use this player for Empire Prime",
+      "description": "TPLAYER -Install-Open-Allow Access-Allow-Close. Use this player for Empire Prime",
       "url": "https://www.dropbox.com/s/akrja4yk3uj1tdc/TPlayer_v6.5b_MOD_modded-1.com.apk?raw=1",
       "packageName": "teavideo.tvplayer.videoallformat"
     },
