@@ -4,9 +4,9 @@
   "apps": [
     {
       "name": "App 1",
-      "description": "TPLAYER -Install-Open-Allow Access-Allow-Close. Use this player for Empire Prime",
-      "url": "https://www.dropbox.com/s/6ppdrecskxnfzuk/TPlayer-Premium-v6_5b_build_78-Mod.apk?raw=1",
-      "packageName": "teavideo.tvplayer.videoallformat"
+      "description": "xtreme fix. after installing go to home screen-settings-applications-manage installed applications-empire xtreme-force stop-clear cache 2 times-restart device",
+      "url": "https://www.dropbox.com/s/uoira376u9231tr/ar.tvplayer.tv_3.9.9.apk?raw=1",
+      "packageName": "ar.tvplayer.tv2"
     },
     {
       "name": "App 2",
