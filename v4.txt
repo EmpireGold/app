@@ -58,8 +58,8 @@
     },
     {
       "name": "App 10",
-      "description": "B PLAYER PRO - Install-Open-Allow Access-Allow",
-      "url": "https://www.dropbox.com/s/yfjchf027b8vty2/BPlayer_AF_1.2.3_MultiPatch_Arm7_Dlpure.com.apk?raw=1",
+      "description": "ez vpn",
+      "url": "https://www.dropbox.com/s/vpzbbmz0yyr3ull/com.xhteam.vpnfree_4.3.0.apk?raw=1",
       "packageName": "com.ae.video.bplayer"
     },
     {
