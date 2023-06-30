@@ -1,5 +1,5 @@
 {
-  "feed": " EMPIRE BLACK IS DOWN. PLEASE USE EMPIRE BLUE OR RED ",
+  "feed": "  ",
   "pin": 1234,
   "apps": [
     {
