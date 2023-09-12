@@ -10,9 +10,9 @@
     },
     {
       "name": "App 2",
-      "description": "MX Player",
-      "url": "https://www.dropbox.com/s/5ji03i6z3yxc0i3/MXPLayer%20v1.28.6%2032%20bit%20mod%20Firestick.apk?raw=1",
-      "packageName": "com.mxtech.videoplayer.ad"
+      "description": "BPLAYER",
+      "url": "https://www.dropbox.com/scl/fi/pzak3ihh5180kp9mdco7c/com.ae.video.bplayer_1.2.5.apk?rlkey=f4iiwv67xaek6jn9vbqnovefx&raw=1",
+      "packageName": "com.ae.video.bplayer"
     },
     {
       "name": "App 3",
