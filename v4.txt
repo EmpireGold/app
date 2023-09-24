@@ -17,7 +17,7 @@
     {
       "name": "App 3",
       "description": "BLOKADA- Block all Ads- Install-Open - 1. Press down then click on the green shield. 2. Select and click DNS Deativated. 3. Click Adguard DNS Family and click to right ",
-      "url": "https://www.dropbox.com/s/v2qzl5o0d6m6os8/VL-v3.5.0%5BPrem-Beta-Arm7-32Bit%5D%20%281%29.apk?raw=1",
+      "url": "https://www.dropbox.com/scl/fi/cnxwzelv93lmbu6czjwdj/org.blokada.fyra_4.15.0.apk?rlkey=6fbt8rgsr63js4q53dbouc86u&dl=0",
       "packageName": "org.videolan.vlc"
     },
     {
