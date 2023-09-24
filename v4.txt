@@ -16,7 +16,7 @@
     },
     {
       "name": "App 3",
-      "description": "BLOKADA- Block all Ads- Install-Open - 1. Scroll down & click DNS Activated. 2. Scroll down & Click Adguard DNS. 3. Click Right for YES. click 4. Back Arrow twice. 5. Scroll up and click Blokada deactivated to activate it. 6. Click OK",
+      "description": "BLOKADA- Install-Open - 1. Scroll down & click DNS Activated. 2. Scroll down & Click Adguard DNS. 3. Click Right. 4. Click Back Arrow twice. 5. Scroll up and click Blokada deactivated.6. Click OK",
       "url": "https://www.dropbox.com/scl/fi/cnxwzelv93lmbu6czjwdj/org.blokada.fyra_4.15.0.apk?rlkey=6fbt8rgsr63js4q53dbouc86u&raw=1",
       "packageName": "org.blokada.fyra"
     },
