@@ -17,7 +17,7 @@
     {
       "name": "App 3",
       "description": "BLOKADA- Block all Ads- Install-Open - 1. Press down then click on the green shield. 2. Select and click DNS Deativated. 3. Click Adguard DNS Family and click to right ",
-      "url": "https://www.dropbox.com/scl/fi/cnxwzelv93lmbu6czjwdj/org.blokada.fyra_4.15.0.apk?rlkey=6fbt8rgsr63js4q53dbouc86u&dl=0",
+      "url": "https://www.dropbox.com/scl/fi/cnxwzelv93lmbu6czjwdj/org.blokada.fyra_4.15.0.apk?rlkey=6fbt8rgsr63js4q53dbouc86u&draw=1",
       "packageName": "org.blokada.fyra"
     },
     {
@@ -47,7 +47,7 @@
     {
       "name": "App 8",
       "description": "EMPIRE GOLD UPDATE",
-      "url": "https://www.dropbox.com/s/2yrpvbz11xi4itf/EmpireGold_VC%3D111%20%281%29.apk?raw=1",
+      "url": "https://www.dropbox.com/scl/fi/2y70beqv48wsf2bbrg96o/org.avstream.empireent112.apk?rlkey=boz4rv8419tawzggr7fmxi17h&raw=1",
       "packageName": "org.avstream.empireentz"
     },
     {
