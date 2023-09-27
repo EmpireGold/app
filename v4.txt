@@ -4,7 +4,8 @@
   "apps": [
     {
       "name": "App 1",
-      "description": "VLC PLAYER - INSTALL-OPEN-ALLOW..USE FOR EMPIRE TOTAL& EMPIRE CITY LITE",
+      "description": "VLC PLAYER - INSTALL-OPEN-Click RIGHT- ALLOW- Click RIGHT- Click START VLC
+USE FOR EMPIRE TOTAL& EMPIRE CITY LITE",
       "url": "https://www.dropbox.com/scl/fi/5v7sa9luprb8h1b9o72hk/org.videolan.vlc_3.5.4.apk?rlkey=cc78gfhsv3e7y0eqe08fltr40&raw=1",
       "packageName": "org.videolan.vlc"
     },
