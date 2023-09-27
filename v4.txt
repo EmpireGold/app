@@ -4,9 +4,9 @@
   "apps": [
     {
       "name": "App 1",
-      "description": "xtreme fix. after installing go to home screen-settings-applications-manage installed applications-empire xtreme-force stop-clear cache 2 times-restart device",
-      "url": "https://www.dropbox.com/s/uoira376u9231tr/ar.tvplayer.tv_3.9.9.apk?raw=1",
-      "packageName": "ar.tvplayer.tv2"
+      "description": "VLC PLAYER - INSTALL-OPEN-ALLOW..USE FOR EMPIRE TOTAL& EMPIRE CITY LITE",
+      "url": "https://www.dropbox.com/scl/fi/5v7sa9luprb8h1b9o72hk/org.videolan.vlc_3.5.4.apk?rlkey=cc78gfhsv3e7y0eqe08fltr40&raw=1",
+      "packageName": "org.videolan.vlc"
     },
     {
       "name": "App 2",
