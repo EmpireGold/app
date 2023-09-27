@@ -59,7 +59,7 @@ USE FOR EMPIRE TOTAL& EMPIRE CITY LITE",
     },
     {
       "name": "App 10",
-      "description": "Empire Total",
+      "description": "Total- Install-Open-SignIn -Click Settings-Content Settings-Text Size Medium.-Click Back Button Twice-Player Settings-VOD Player-VLC",
       "url": "https://www.dropbox.com/scl/fi/teqk1ztfbcpgswo6hklcp/Empire-1.apk?rlkey=438b1d9plnawewrrsamu475wm&raw=1",
       "packageName": "apphosts.startup222.empire"
     },
