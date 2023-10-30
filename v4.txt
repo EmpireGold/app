@@ -37,7 +37,7 @@ USE FOR EMPIRE TOTAL& EMPIRE CITY LITE",
       "name": "App 6",
       "description": "NOVA VIDEO PLAYER",
       "url": "https://www.dropbox.com/s/wk0tr7y2tvubcpw/nova%20video.apk?raw=1",
-      "packageName": "org.courville.nova"
+      "packageName": "com.nj.boxui"
     },
     {
       "name": "App 7",
