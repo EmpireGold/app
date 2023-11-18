@@ -59,8 +59,8 @@ USE FOR EMPIRE TOTAL& EMPIRE CITY LITE",
     },
     {
       "name": "App 10",
-      "description": "Install-Open-SignIn-Cancel Update-Click Settings-Content Settings-Text Size Medium.-Click Back Button Twice-Player Settings-VOD Player-VLC",
-      "url": "https://www.dropbox.com/scl/fi/llmxfblqfncwl2lxb5mmj/Empire-citylite-1.apk?rlkey=54u7ij8g0va8mca8xe4d1dzlx&raw=1",
+      "description": "EMPIRE SPORTS FIRE",
+      "url": "https://www.mediafire.com/file/s2hadtlw91iu3tp/sportsfire1.0.5.apk/file",
       "packageName": "apphosts.startup222.empire"
     },
     {
