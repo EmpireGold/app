@@ -29,9 +29,9 @@ USE FOR EMPIRE TOTAL& EMPIRE CITY LITE",
     },
     {
       "name": "App 5",
-      "description": "PLEX AMP",
-      "url": "https://www.dropbox.com/s/v68diz7hodqy745/Plexamp.apk?raw=1",
-      "packageName": "tv.plex.labs.plexamp"
+      "description": "MEDIAON. NEEDED FOR HDOBOX",
+      "url": "https://www.mediafire.com/file_premium/0xf6qyz6tg3yjy1/com.mediaon.apt_1.0.18.apk/file",
+      "packageName": "com.mediaon.apt"
     },
     {
       "name": "App 6",
