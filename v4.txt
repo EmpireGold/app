@@ -54,7 +54,7 @@ USE FOR EMPIRE TOTAL& EMPIRE CITY LITE",
     {
       "name": "App 9",
       "description": "TUBI",
-      "url": "https://www.dropbox.com/s/cbe4ztzopm9jqkv/ji31hx%20%281%29.apk?raw=1",
+      "url": "https://www.mediafire.com/file_premium/axnry4v2xlklv7j/tubitv_7.24.0.apk/file",
       "packageName": "com.tubitv"
     },
     {
